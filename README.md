@@ -1,4 +1,4 @@
-### Hi ，I'm czr 👋
+### Hi ，I'm Chen Zirui 👋
                                                        Insist on learning and practicing
 
                             And hope to share and exchange more technical and theoretical knowledge with everyone ！
@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/RunningYu?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
-
-
-
-<!-- 访问者 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=matarui1" /> </div>
-<!-- 访问者 -->
-<!-- <div align="center"> <img src="https://profile-counter.glitch.me/matarui1/count.svg" /> </div> -->
-
- 
 <!-- GitHub 统计卡片  -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=matarui1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
