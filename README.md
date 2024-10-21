@@ -1,48 +1,17 @@
-### Hi ，I'm Chen Zirui 👋
-                                                       Insist on learning and practicing
+<h1 align="center">Hi 👋, I'm Chen Zirui</h1>
+<h3 align="center">A student from Lingnan university</h3>
 
-                            And hope to share and exchange more technical and theoretical knowledge with everyone ！
-<!--
-**matarui1/matarui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matarui&label=Profile%20views&color=0e75b6&style=flat" alt="matarui" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **chenzirui99@gmail.com**
 
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/RunningYu?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
-<!-- GitHub 统计卡片  -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=matarui1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/zzzru1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zzzru1_" height="30" width="40" /></a>
+</p>
 
-<!-- 技术标签 -->
-<div align="center"> 
-<span > 
- <img src="https://img.shields.io/badge/-Springboot-oringe?style=flat-square&logo=Springboot" /> 
- <img src="https://img.shields.io/badge/-SpringCloud-1572B6?style=flat-square&logo=SpringCloud" /> 
- <img src="https://img.shields.io/badge/-Elasticsearch-oringe?style=flat-square&logo=Elasticsearch" /> 
- 
- <img src="https://img.shields.io/badge/-RabbitMq-1572B6?style=flat-square&logo=RabbitMq" />
- <img src="https://img.shields.io/badge/-Docker-oringe?style=flat-square&logo=Docker" /> 
- <img src="https://img.shields.io/badge/-Redis-1572B6?style=flat-square&logo=Redis" /> 
- <img src="https://img.shields.io/badge/-Sentinel-oringe?style=flat-square&logo=Sentinel" /> 
- 
- <img src="https://img.shields.io/badge/-Netty-oringe?style=flat-square&logo=Netty" /> 
- <img src="https://img.shields.io/badge/-nio-1572B6?style=flat-square&logo=nio" /> 
- <img src="https://img.shields.io/badge/-RPC-oringe?style=flat-square&logo=RPC" /> 
- 
- <img src="https://img.shields.io/badge/-MinIO-oringe?style=flat-square&logo=MinIO" /> 
- <img src="https://img.shields.io/badge/-JVM-1572B6?style=flat-square&logo=JVM" /> 
- <img src="https://img.shields.io/badge/-JUC-oringe?style=flat-square&logo=JUC" /> 
- 
- <img src="https://img.shields.io/badge/-Quartz-1572B6?style=flat-square&logo=Quartz" /> 
- <img src="https://img.shields.io/badge/-design_pattern-oringe?style=flat-square&logo=design_pattern" /> 
- 
- </span>
- </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
